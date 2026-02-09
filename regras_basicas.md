@@ -46,10 +46,10 @@ Cada personagem possui um limite de 10 slots no inventário para carregar itens.
 ## XP E EVOLUÇÃO
 Ao sobreviver ou superar um desafio marque +1XP. Ao acumular um total de 10XP, suba de nível. Ao subir de nível, escolha uma opção:
 
-► Aumentar um Atributo em +1 (max 4).
-► Aumentar uma PV em +1 (max 20).
-► Aumentar uma Determinação em +1 (max 20).
-► Adquirir uma nova Habilidade.
+- ► Aumentar um Atributo em +1 (max 4).
+- ► Aumentar uma PV em +1 (max 20).
+- ► Aumentar uma Determinação em +1 (max 20).
+- ► Adquirir uma nova Habilidade.
 
 ## COMBATE
 ### RODADAS E TURNOS
