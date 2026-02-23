@@ -47,70 +47,101 @@ $ 3 | Tochas, armadilha pequena, faca de caça, luneta, pederneira, vara de 3m.
 #### SUPRIMENTOS
 $ 1 | Cantil de água e comida desidratada para 3 dias.
 
-#### ARMADURAS E ESCUDOS
-| Armaduras                                        |     | RES | $ |
-| ---------------------------------------------------- | --- | ------- | ----- |
-| Armadura Leve - Couro, Acolchoada                 |     | 1       | 4     |
-| Armadura Mediana - Cota de malha, Couro reforçado |     | 2       | 6     |
-| Armadura Pesada - Armadura completa de placas     |     | 3       | 10    |
-| Escudo - Vantagem para Aparar                     |     | -       | 2     |
+---
 
-#### ARMAS
-| Armas Corporal                                                                                         |     | Dano     | $     |
-| ------------------------------------------------------------------------------------------------------ | --- | -------- | ----- |
-| Armas Leves - Adaga, Machadinha, Punhal, Facão, Cajado                                              |     | 1        | 2     |
-| Armas Medianas - Espada, Machado, Clava, Maça, Lança, Mangual                                       |     | 2        | 4     |
-| Armas Pesadas - Requer duas mãos, Espada Longa, Machado de Batalha, Martelo de Guerra, Alabarda |     | 3        | 6     |
-| Armas a Distância                                                                                  |     | Dano | $ |
-| Funda, Bumerangue, Estilingue.                                                                         |     | 1        | 2     |
-| Arco, Besta                                                                                            |     | 2        | 6     |
-| Arma de Fogo                                                                                       |     | Dano | $ |
-| Bacamarte - Ignora Armadura, 1 turno para recarregar                                            |     | 3        | 8     |
-| Explosivos                                                                                             |     | Dano     | $     |
-| Bomba Incendiária - Dano em área, +1 dano por turno em chamas                                 |     | 3d6      | 4     |
-| Dinamite - Dano em área                                                                             |     | 3d6      | 4     |
-| Munição                                                                                                |     |          | $     |
-| Chumbinho (x10) - P/ Funda e Estilingue                                                            |     |          | 1     |
-| Flecha (x10)                                                                                           |     |          | 2     |
-| Virote para Bestas (x10)                                                                               |     |          | 2     |
-| Pólvora e Chumbo (x10) - P/ Bacamarte                                                               |     |          | 4     |
+## ARMADURAS E ESCUDOS
 
-#### SERVIÇOS
-| Serviço                                     |     | $                       |
-| ------------------------------------------- | --- | ----------------------- |
-| Refeição                                    |     | 1                       |
-| Pernoite                                    |     | 1                       |
-| Conserto de Armas                           |     | Igual ao valor de  Dano |
-| Conserto de Armaduras                       |     | Igual ao valor de RES   |
-| Tratamento Médico - Remove estado Ferido |     | 2                       |
+**ARMADURA LEVE:** $4 | RES 1 | Couro, Acolchoada.
 
-#### CONTRATADOS
-| Contratados                                   |     | $/dia |
-| --------------------------------------------- | --- | ----- |
-| Segura Tochas - PV 5 - Machadinha (1 dano)   |     | 1     |
-| Guia - PV 10 - Espada curta (1 dano)         |     | 2     |
-| Mercenário - PV 10 - Espada \| Arco (2 dano) |     | 3     |
+**ARMADURA MEDIANA:** $6 | RES 2 | Cota de malha, Couro reforçado.
 
-#### MONTARIAS E ANIMAIS
-| Animais                                      |     | $   |
-| -------------------------------------------- | --- | --- |
-| Cão de Caça - PV 2 - Mordida (1 dano)       |     | 2   |
-| Mula - PV 2 - Coice (1 dano)                |     | 2   |
-| Cavalo - PV 2 - Coice (1 dano)              |     | 4   |
-| Pássaro do Terror - PV 2 - Bicada (2 dano) |     | 6   |
-| Carroça                                      |     | 2   |
-| Carruagem                                    |     | 4   |
+**ARMADURA PESADA:** $10 | RES 3 | Armadura completa de placas
 
-#### POÇÕES E ALQUÍMICOS
-| Poções                                                                                        |     | $   |
-| --------------------------------------------------------------------------------------------- | --- | --- |
-| Antídoto - Cura envenenamento                                                              |     | 4   |
-| Elixir de Cura - Cura qualquer ferimento.                                                  |     | 6   |
-| Gás Sonífero - Todos em uma área dormem por d6 horas.                                      |     | 4   |
-| Poção de Força - Adquire a força sobre-humana podendo erguer 100x seu peso.                |     | 4   |
-| Poção de Metamorfose - Assume a aparência de uma criatura ou pessoa por 1 hora.          |     | 6   |
-| Poção de Vigor - Recupera todo PV.                                                       |     | 2   |
-| Poção de Voo - Pode voar por 1 hora                                                      |     | 4   |
-| Poção de Resistência - Imune a doença, fome, sono, frio, calor, fogo, venenos por 1hora. |     | 6   |
-| Veneno de Basilisco - Paralisa o alvo por 1 hora                                         |     | 4   |
-| Veneno Aranha Gigante - Causa 1 dano cada rodada até obter Antídoto.                     |     | 4   |
+**ESCUDO:** $2 | Vantagem para bloquear ataques.
+
+---
+
+## ARMAS
+**ARMAS LEVES:** $2 | Dano 1 | Adaga, Machadinha, Punhal, Facão, Cajado.
+
+**ARMAS MEDIANAS:** $4 | Dano 2 | Espada, Machado, Clava, Maça, Lança, Mangual.
+
+**ARMAS PESADAS:** $6 | Dano 3 | Requer duas mãos | Espada Longa, Machado de Batalha, Martelo de Guerra, Alabarda.
+
+**ARMAS À DISTÂNCIA (LEVES):** $2 | Dano 1 | Funda, Bumerangue, Estilingue.
+
+**ARMAS À DISTÂNCIA (PESADAS):** $6 | Dano 2 | Arco, Besta.
+
+**BACAMARTE:** $8 | Dano 3 | Ignora Armadura | 1 turno para recarregar.
+
+**BOMBA INCENDIÁRIA:** $4 | Dano 3d6 | Dano em área | +1 dano por turno em chamas.
+
+**DINAMITE:** $4 | Dano 3d6 | Dano em área.
+
+**CHUMBINHO (x10):** $1 | Munição | Para Funda e Estilingue.
+
+**FLECHA (x10):** $2 | Munição | Para Arcos.
+
+**VIROTE (x10):** $2 | Munição | Para Bestas.
+
+**PÓLVORA E CHUMBO (x10):** $4 | Munição | Para Bacamarte.
+
+---
+
+## SERVIÇOS
+**REFEIÇÃO:** $1 | Uma refeição simples em taverna ou estalagem.
+
+**PERNOITE:** $1 | Dormida simples com cama comum ou espaço coletivo.
+
+**CONSERTO DE ARMAS:** $(Igual ao Dano) | Restaura a arma danificada.
+
+**CONSERTO DE ARMADURAS:** $(Igual ao RES) | Restaura a armadura danificada.
+
+**TRATAMENTO MÉDICO:** $2 | Remove estado Ferido.
+
+---
+
+## CONTRATADOS
+**SEGURA-TOCHAS:** $1/dia | PV 5 | Machadinha (1 dano).
+
+**GUIA:** $2/dia | PV 10 | Espada curta (1 dano).
+
+**MERCENÁRIO:** $3/dia | PV 10 | Espada ou Arco (2 dano).
+
+---
+
+## MONTARIAS E ANIMAIS
+**CÃO DE CAÇA:** $2 | PV 2 | Mordida (1 dano).
+
+**MULA:** $2 | PV 2 | Coice (1 dano).
+
+**CAVALO:** $4 | PV 2 | Coice (1 dano).
+
+**PÁSSARO DO TERROR:** $6 | PV 2 | Bicada (2 dano).
+
+**CARROÇA:** $2 | Transporte simples de carga.
+
+**CARRUAGEM:** $4 | Transporte confortável para passageiros.
+
+---
+
+## POÇÕES E ALQUÍMICOS
+**ANTÍDOTO:** $4 | Cura envenenamento.
+
+**ELIXIR DE CURA:** $6 | Cura qualquer ferimento.
+
+**GÁS SONÍFERO:** $4 | Todos em uma área dormem por d6 horas.
+
+**POÇÃO DE FORÇA:** $4 | Força sobre-humana, pode erguer 100x seu peso.
+
+**POÇÃO DE METAMORFOSE:** $6 | Assume aparência de criatura ou pessoa por 1 hora.
+
+**POÇÃO DE VIGOR:** $2 | Recupera todo PV.
+
+**POÇÃO DE VOO:** $4 | Pode voar por 1 hora.
+
+**POÇÃO DE RESISTÊNCIA:** $6 | Imune a doença, fome, sono, frio, calor, fogo e venenos por 1 hora.
+
+**VENENO DE BASILISCO:** $4 | Paralisa o alvo por 1 hora.
+
+**VENENO DE ARANHA GIGANTE:** $4 | Causa 1 dano por rodada até receber Antídoto.
