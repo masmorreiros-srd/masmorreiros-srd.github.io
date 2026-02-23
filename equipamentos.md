@@ -51,40 +51,40 @@ $ 1 | Cantil de água e comida desidratada para 3 dias.
 
 ## ARMADURAS E ESCUDOS
 
-**ARMADURA LEVE:** $4 | RES 1 | Couro, Acolchoada.
+**ARMADURA LEVE:** $4 | RES 1 - Couro, Acolchoada.
 
-**ARMADURA MEDIANA:** $6 | RES 2 | Cota de malha, Couro reforçado.
+**ARMADURA MEDIANA:** $6 | RES 2 - Cota de malha, Couro reforçado.
 
-**ARMADURA PESADA:** $10 | RES 3 | Armadura completa de placas
+**ARMADURA PESADA:** $10 | RES 3 - Armadura completa de placas
 
 **ESCUDO:** $2 | Vantagem para bloquear ataques.
 
 ---
 
 ## ARMAS
-**ARMAS LEVES:** $2 | Dano 1 | Adaga, Machadinha, Punhal, Facão, Cajado.
+**ARMAS LEVES:** $2 | Dano 1 - Adaga, Machadinha, Punhal, Facão, Cajado.
 
-**ARMAS MEDIANAS:** $4 | Dano 2 | Espada, Machado, Clava, Maça, Lança, Mangual.
+**ARMAS MEDIANAS:** $4 | Dano 2 - Espada, Machado, Clava, Maça, Lança, Mangual.
 
-**ARMAS PESADAS:** $6 | Dano 3 | Requer duas mãos | Espada Longa, Machado de Batalha, Martelo de Guerra, Alabarda.
+**ARMAS PESADAS:** $6 | Dano 3 - Requer duas mãos | Espada Longa, Machado de Batalha, Martelo de Guerra, Alabarda.
 
-**ARMAS À DISTÂNCIA (LEVES):** $2 | Dano 1 | Funda, Bumerangue, Estilingue.
+**ARMAS À DISTÂNCIA (LEVES):** $2 | Dano 1 - Funda, Bumerangue, Estilingue.
 
-**ARMAS À DISTÂNCIA (PESADAS):** $6 | Dano 2 | Arco, Besta.
+**ARMAS À DISTÂNCIA (PESADAS):** $6 | Dano 2 - Arco, Besta.
 
-**BACAMARTE:** $8 | Dano 3 | Ignora Armadura | 1 turno para recarregar.
+**BACAMARTE:** $8 | Dano 3 - Ignora Armadura, 1 turno para recarregar.
 
-**BOMBA INCENDIÁRIA:** $4 | Dano 3d6 | Dano em área | +1 dano por turno em chamas.
+**BOMBA INCENDIÁRIA:** $4 | Dano 3d6 - Dano em área, +1 dano por turno em chamas.
 
-**DINAMITE:** $4 | Dano 3d6 | Dano em área.
+**DINAMITE:** $4 | Dano 3d6, Dano em área.
 
-**CHUMBINHO (x10):** $1 | Munição | Para Funda e Estilingue.
+**CHUMBINHO (x10):** $1 | Munição para Funda e Estilingue.
 
-**FLECHA (x10):** $2 | Munição | Para Arcos.
+**FLECHA (x10):** $2 | Munição para Arcos.
 
-**VIROTE (x10):** $2 | Munição | Para Bestas.
+**VIROTE (x10):** $2 | Munição para Bestas.
 
-**PÓLVORA E CHUMBO (x10):** $4 | Munição | Para Bacamarte.
+**PÓLVORA E CHUMBO (x10):** $4 | Munição para Bacamarte.
 
 ---
 
