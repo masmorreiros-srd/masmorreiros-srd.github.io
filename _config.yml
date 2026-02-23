@@ -10,7 +10,7 @@ plugins:
   - jekyll-sitemap
 include:
   - js
-markdown: kramdown
+# markdown: kramdown
 
 # Back to top link
 back_to_top: true
