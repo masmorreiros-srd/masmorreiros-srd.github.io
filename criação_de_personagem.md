@@ -11,11 +11,13 @@ nav_order: 4
 ## ATRIBUTOS
 Representam as características naturais do personagem. Distribua os valores 1, 2 e zero entre os Atributos livremente OU role 1d6 para cada Atributo e anote o resultado conforme a tabela abaixo:
 
-| D6  | Atributo |
-| --- | -------- |
-| 1-2 | 0        |
-| 3-4 | 1        |
-| 5-6 | 2        |
+**D6** = **Valor do Atributo**
+
+1-2    =  0
+
+3-4    =  1
+
+5-6    =  2
 
 ### FORÇA (FOR)
 Representa sua força bruta, resistência física e habilidade de combate corpo a corpo. Utilize para atacar corpo a corpo, resistir a dano por veneno, resistir a doenças, resistir a fome, levantar coisas pesadas, quebrar portas, bloquear ataques e evitar ser empurrado. 
