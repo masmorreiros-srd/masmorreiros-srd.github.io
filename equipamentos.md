@@ -48,32 +48,32 @@ $ 3 | Tochas, armadilha pequena, faca de caça, luneta, pederneira, vara de 3m.
 $ 1 | Cantil de água e comida desidratada para 3 dias.
 
 #### ARMADURAS E ESCUDOS
-| **Armaduras**                                        |     | **RES** | **$** |
+| Armaduras                                        |     | RES | $ |
 | ---------------------------------------------------- | --- | ------- | ----- |
-| Armadura Leve - *Couro, Acolchoada*                 |     | 1       | 4     |
-| Armadura Mediana - *Cota de malha, Couro reforçado* |     | 2       | 6     |
-| Armadura Pesada - *Armadura completa de placas*     |     | 3       | 10    |
-| Escudo - *Vantagem para Aparar*                     |     | -       | 2     |
+| Armadura Leve - Couro, Acolchoada                 |     | 1       | 4     |
+| Armadura Mediana - Cota de malha, Couro reforçado |     | 2       | 6     |
+| Armadura Pesada - Armadura completa de placas     |     | 3       | 10    |
+| Escudo - Vantagem para Aparar                     |     | -       | 2     |
 
 #### ARMAS
 | Armas Corporal                                                                                         |     | Dano     | $     |
 | ------------------------------------------------------------------------------------------------------ | --- | -------- | ----- |
-| Armas Leves - *Adaga, Machadinha, Punhal, Facão, Cajado*                                              |     | 1        | 2     |
-| Armas Medianas - *Espada, Machado, Clava, Maça, Lança, Mangual*                                       |     | 2        | 4     |
-| Armas Pesadas - *Requer duas mãos, Espada Longa, Machado de Batalha, Martelo de Guerra, Alabarda* |     | 3        | 6     |
-| **Armas a Distância**                                                                                  |     | **Dano** | **$** |
+| Armas Leves - Adaga, Machadinha, Punhal, Facão, Cajado                                              |     | 1        | 2     |
+| Armas Medianas - Espada, Machado, Clava, Maça, Lança, Mangual                                       |     | 2        | 4     |
+| Armas Pesadas - Requer duas mãos, Espada Longa, Machado de Batalha, Martelo de Guerra, Alabarda |     | 3        | 6     |
+| Armas a Distância                                                                                  |     | Dano | $ |
 | Funda, Bumerangue, Estilingue.                                                                         |     | 1        | 2     |
 | Arco, Besta                                                                                            |     | 2        | 6     |
-| **Arma de Fogo**                                                                                       |     | **Dano** | **$** |
-| Bacamarte - *Ignora Armadura, 1 turno para recarregar*                                            |     | 3        | 8     |
-| **Explosivos**                                                                                             |     | Dano     | $     |
-| Bomba Incendiária - *Dano em área, +1 dano por turno em chamas*                                 |     | 3d6      | 4     |
-| Dinamite - *Dano em área*                                                                             |     | 3d6      | 4     |
-| **Munição**                                                                                                |     |          | $     |
-| Chumbinho (x10) - *P/ Funda e Estilingue*                                                            |     |          | 1     |
+| Arma de Fogo                                                                                       |     | Dano | $ |
+| Bacamarte - Ignora Armadura, 1 turno para recarregar                                            |     | 3        | 8     |
+| Explosivos                                                                                             |     | Dano     | $     |
+| Bomba Incendiária - Dano em área, +1 dano por turno em chamas                                 |     | 3d6      | 4     |
+| Dinamite - Dano em área                                                                             |     | 3d6      | 4     |
+| Munição                                                                                                |     |          | $     |
+| Chumbinho (x10) - P/ Funda e Estilingue                                                            |     |          | 1     |
 | Flecha (x10)                                                                                           |     |          | 2     |
 | Virote para Bestas (x10)                                                                               |     |          | 2     |
-| Pólvora e Chumbo (x10) - *P/ Bacamarte*                                                               |     |          | 4     |
+| Pólvora e Chumbo (x10) - P/ Bacamarte                                                               |     |          | 4     |
 
 #### SERVIÇOS
 | Serviço                                     |     | $                       |
@@ -82,7 +82,7 @@ $ 1 | Cantil de água e comida desidratada para 3 dias.
 | Pernoite                                    |     | 1                       |
 | Conserto de Armas                           |     | Igual ao valor de  Dano |
 | Conserto de Armaduras                       |     | Igual ao valor de RES   |
-| Tratamento Médico - *Remove estado Ferido* |     | 2                       |
+| Tratamento Médico - Remove estado Ferido |     | 2                       |
 
 #### CONTRATADOS
 | Contratados                                   |     | $/dia |
@@ -104,13 +104,13 @@ $ 1 | Cantil de água e comida desidratada para 3 dias.
 #### POÇÕES E ALQUÍMICOS
 | Poções                                                                                        |     | $   |
 | --------------------------------------------------------------------------------------------- | --- | --- |
-| Antídoto - *Cura envenenamento*                                                              |     | 4   |
-| Elixir de Cura - *Cura qualquer ferimento.*                                                  |     | 6   |
-| Gás Sonífero - *Todos em uma área dormem por d6 horas.*                                      |     | 4   |
-| Poção de Força - *Adquire a força sobre-humana podendo erguer 100x seu peso.*                |     | 4   |
-| Poção de Metamorfose - *Assume a aparência de uma criatura ou pessoa por 1 hora.*          |     | 6   |
-| Poção de Vigor - *Recupera todo PV.*                                                       |     | 2   |
-| Poção de Voo - *Pode voar por 1 hora*                                                      |     | 4   |
-| Poção de Resistência - *Imune a doença, fome, sono, frio, calor, fogo, venenos por 1hora.* |     | 6   |
-| Veneno de Basilisco - *Paralisa o alvo por 1 hora*                                         |     | 4   |
-| Veneno Aranha Gigante - *Causa 1 dano cada rodada até obter Antídoto.*                     |     | 4   |
+| Antídoto - Cura envenenamento                                                              |     | 4   |
+| Elixir de Cura - Cura qualquer ferimento.                                                  |     | 6   |
+| Gás Sonífero - Todos em uma área dormem por d6 horas.                                      |     | 4   |
+| Poção de Força - Adquire a força sobre-humana podendo erguer 100x seu peso.                |     | 4   |
+| Poção de Metamorfose - Assume a aparência de uma criatura ou pessoa por 1 hora.          |     | 6   |
+| Poção de Vigor - Recupera todo PV.                                                       |     | 2   |
+| Poção de Voo - Pode voar por 1 hora                                                      |     | 4   |
+| Poção de Resistência - Imune a doença, fome, sono, frio, calor, fogo, venenos por 1hora. |     | 6   |
+| Veneno de Basilisco - Paralisa o alvo por 1 hora                                         |     | 4   |
+| Veneno Aranha Gigante - Causa 1 dano cada rodada até obter Antídoto.                     |     | 4   |
