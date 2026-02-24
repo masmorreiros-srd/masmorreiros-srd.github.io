@@ -92,16 +92,16 @@ $4 | Dano 3d6 | Dano em área | +1 dano por turno em chamas.
 $4 | Dano 3d6 | Dano em área.
 
 #### CHUMBINHO (x10)
-$1 | Munição | Para Funda e Estilingue.
+$1 | Munição para Funda e Estilingue.
 
 #### FLECHA (x10)
-$2 | Munição | Para Arcos.
+$2 | Munição para Arcos.
 
 #### VIROTE (x10) 
-$2 | Munição | Para Bestas.
+$2 | Munição para Bestas.
 
 #### PÓLVORA E CHUMBO (x10)
-$4 | Munição | Para Bacamarte.
+$4 | Munição para Bacamarte.
 
 ---
 
