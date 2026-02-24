@@ -176,3 +176,16 @@ $6 | Assume aparência de criatura ou pessoa por 1 hora.
 #### POÇÃO DE VIGOR
 $2 | Recupera todo PV.
 
+#### POÇÃO DE VOO
+$4 | Pode voar por 1 hora.
+
+#### POÇÃO DE RESISTÊNCIA
+$6 | Imune a doença, fome, sono, frio, calor, fogo e venenos por 1 hora.
+
+#### VENENO DE BASILISCO
+$4 | Paralisa o alvo por 1 hora.
+
+#### VENENO DE ARANHA GIGANTE
+$4 | Causa 1 dano por rodada até receber Antídoto.
+
+
