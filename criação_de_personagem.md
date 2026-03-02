@@ -42,8 +42,9 @@ Estão disponíveis quatro Ancestralidades: **Humanos, Duarvens, Elfos e Gnomos*
 ### HUMANOS
 Os humanos são humanóides com uma grande variedade de biotipos e culturas diferentes. Costumam medir entre 1,50m a 1,80m. Chegam à idade adulta por volta dos 18 anos e apresentam os primeiros sinais de envelhecimento a partir dos 50 anos. A expectativa de vida geralmente não ultrapassa os 80 anos. Os humanos são reconhecidos por sua criatividade inventiva e pela determinação implacável em sobreviver e se adaptar.
 
-**HABILIDADE NATURAL** 
-**Especialista**: Humanos iniciam com uma Habilidade extra a sua escolha.
+**HABILIDADE NATURAL**
+
+- **Especialista**: Humanos iniciam com uma Habilidade extra a sua escolha.
 
 **NOMES MASCULINOS**
 1.Eric, 2.Theron, 3.Rudric, 4.Ragnar, 5.Tristan, 6.Alucard
@@ -66,7 +67,8 @@ Os humanos são humanóides com uma grande variedade de biotipos e culturas dife
 Vulgarmente conhecidos como Anões. Os Duarvens são humanóides de baixa estatura, medindo entre 1,50m a 1,60m, com uma estrutura corporal robusta e resistente. Possui uma grande longevidade, podendo chegar até aos 300 anos de idade, sendo considerados adultos a partir dos 20 anos e apresentando sinais de velhice apenas aos 200 anos. Apesar de possuírem diversos povos com culturas diferentes, compartilham entre si a características de  manter grandes barbas adornadas com enfeites, troféus e tranças estilizadas. Duarvens são conhecidos por sua resistência e saúde física e por sua engenhosidade com forja de armas e itens.
 
 **HABILIDADE NATURAL**
-**Resistência Duarven**: Imune a doenças, venenos, intoxicação e químicos.
+
+- **Resistência Duarven**: Imune a doenças, venenos, intoxicação e químicos.
 
 **NOMES MASCULINOS**
 1.Antak, 2.Durin, 3.Rothum, 4.Thorin, 5.Dalnum, 6.Rolfing.
@@ -89,7 +91,8 @@ Vulgarmente conhecidos como Anões. Os Duarvens são humanóides de baixa estatu
 Os Elfos são seres humanóides que se assemelham aos humanos, destacando-se principalmente por suas orelhas pontudas. Geralmente, possuem uma estatura que varia de 1,69m a 1,80m, com uma constituição física mais esguia e magra. Sua longevidade é notável, podendo alcançar até 1500 anos de vida. Eles atingem a idade adulta aos 50 anos e mantêm uma aparência jovial, sem sinais de envelhecimento, assemelhando-se a um humano de 30 anos por toda a sua existência. Elfos são reconhecidos por sua habilidade excepcional com magia e por sua visão apurada inigualável.
 
 **HABILIDADE NATURAL**
-**Visão Élfica**: Elfos possuem visão aguçada capaz de enxergar detalhes até 5km de distância e ambientes com pouca luz.
+
+- **Visão Élfica**: Elfos possuem visão aguçada capaz de enxergar detalhes até 5km de distância e ambientes com pouca luz.
 
 **NOMES MASCULINOS:**
 1.Kael, 2.Uriel, 3.Samael, 4.Aldriel, 5.Haldir, 6.Eldarion
@@ -112,7 +115,8 @@ Os Elfos são seres humanóides que se assemelham aos humanos, destacando-se pri
 Gnomos são pequenos humanóides de características exóticas. Eles costumam medir entre 1,00m a 1,40m. Possuem pele, cabelos e olhos coloridos e vibrantes (verde, azul, púrpura e vermelho) e exibem traços joviais, às vezes até infantis. Chegam à fase adulta aos 50 anos e são imortais ao tempo, preservando sua aparência sempre jovem. São conhecidos por serem curiosos, aventureiros e com aptidões naturais para a magia. Infelizmente, devido ao seu "sangue arcano", são cobiçados por bruxos e cultos perversos, que caçam e escravizam essas criaturas.
 
 **HABILIDADE NATURAL**
-**Ancestralidade Arcana**: Gnomos podem enxergar o invisível e são capazes de sentirem o "cheiro" de magia e de objetos imbuídos de magia. 
+
+- **Ancestralidade Arcana**: Gnomos podem enxergar o invisível e são capazes de sentirem o "cheiro" de magia e de objetos imbuídos de magia. 
 
 **NOMES MASCULINOS**
 1.Jax, 2.Sparks, 3.Zapp, 4.Quirk, 5.Glimp, 6.Blink.
@@ -134,11 +138,13 @@ Gnomos são pequenos humanóides de características exóticas. Eles costumam me
 ---
 ## CLASSES
 Estão disponíveis quatro Classes Básicas: **Clérigo, Guerreiro, Ladrão e Mago**. 
+
 ### CLÉRIGO
 Um devoto de uma divindade, capaz de infligir danos aos mortos-vivos e criaturas malignas. Sua fé é sua força.
 
 **HABILIDADE**
-**Milagres**: Pode conjurar magias divinas com seu símbolo sagrado.
+
+- **Milagres**: Pode conjurar magias divinas com seu símbolo sagrado.
 
 **EQUIPAMENTOS INICIAIS**:
 - Maça OU Clava (2 dano)
@@ -162,7 +168,8 @@ Um devoto de uma divindade, capaz de infligir danos aos mortos-vivos e criaturas
 Um combatente feroz, treinado para dominar a arte da batalha.
 
 **HABILIDADE**
-**Combate (distância ou corporal):** Ataques com um tipo de arma (escolha entre corporal ou a distância) são feitos com Vantagem. 
+
+- **Combate (distância ou corporal):** Ataques com um tipo de arma (escolha entre corporal ou a distância) são feitos com Vantagem. 
 
 **EQUIPAMENTOS INICIAIS:**
 - Duas Armas a sua escolha.
@@ -184,7 +191,8 @@ Um combatente feroz, treinado para dominar a arte da batalha.
 Um mestre da furtividade e da astúcia, capaz de furtar sem ser visto, desarmar armadilhas complexas e arrombar fechaduras. Sua agilidade e inteligência são suas principais armas.
 
 **HABILIDADE**
-**Ladroagem**: Vantagem para andar sorrateiramente e furtar.
+
+- **Ladroagem**: Vantagem para andar sorrateiramente e furtar.
 
 **EQUIPAMENTOS INICIAIS:**
 - Adagas de Arremesso (10 uni,  1 dano),
@@ -206,12 +214,13 @@ Um mestre da furtividade e da astúcia, capaz de furtar sem ser visto, desarmar 
 Um estudioso das artes mágicas, capaz de conjurar feitiços poderosos para destruir inimigos, manipular objetos e controlar os elementos. Sua inteligência e conhecimento são a chave para seu poder.
 
 **HABILIDADE**
-**Feitiçaria**: Sabe ler e conjurar feitiços a partir de Grimórios e Pergaminhos. 
+
+- **Feitiçaria**: Sabe ler e conjurar feitiços a partir de Grimórios e Pergaminhos. 
 
 **EQUIPAMENTOS INICIAIS:**
 - Cajado Mágico (1 dano)
 - Grimório de Feitiços: contendo três Magias Arcanas a sua escolha.
-- Poções de Mana (1 uso): recupera toda Mana.
+- Poções de Mana (1 uso): recupera todo PD.
 - Bola de Cristal: Pode fazer uma pergunta de sim/não uma vez por dia. A resposta é verdadeira.
 - Um pequeno demônio em uma garrafa.
 
