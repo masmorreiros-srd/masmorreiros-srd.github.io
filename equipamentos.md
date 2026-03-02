@@ -176,6 +176,9 @@ $6 | Assume aparência de criatura ou pessoa por 1 hora.
 #### POÇÃO DE VIGOR
 $2 | Recupera todo PV.
 
+#### POÇÃO DE MANA
+$8 | Recupera todo PD.
+
 #### POÇÃO DE VOO
 $4 | Pode voar por 1 hora.
 
